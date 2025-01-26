@@ -1,0 +1,14 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Delagate\bin\Debug\net9.0\Delagate.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Delagate\bin\Debug\net9.0\Delagate.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Delagate\bin\Debug\net9.0\Delagate.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Delagate\bin\Debug\net9.0\Delagate.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Delagate\bin\Debug\net9.0\Delagate.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Delagate\obj\Debug\net9.0\Delagate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Delagate\obj\Debug\net9.0\Delagate.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Delagate\obj\Debug\net9.0\Delagate.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Delagate\obj\Debug\net9.0\Delagate.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Delagate\obj\Debug\net9.0\Delagate.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Delagate\obj\Debug\net9.0\refint\Delagate.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Delagate\obj\Debug\net9.0\Delagate.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Delagate\obj\Debug\net9.0\Delagate.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Delagate\obj\Debug\net9.0\ref\Delagate.dll
