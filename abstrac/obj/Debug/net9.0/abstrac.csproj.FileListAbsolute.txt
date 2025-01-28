@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\abstrac\bin\Debug\net9.0\abstrac.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\abstrac\bin\Debug\net9.0\abstrac.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\abstrac\bin\Debug\net9.0\abstrac.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\abstrac\bin\Debug\net9.0\abstrac.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\abstrac\bin\Debug\net9.0\abstrac.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\abstrac\obj\Debug\net9.0\abstrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\abstrac\obj\Debug\net9.0\abstrac.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\abstrac\obj\Debug\net9.0\abstrac.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\abstrac\obj\Debug\net9.0\abstrac.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\abstrac\obj\Debug\net9.0\abstrac.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\abstrac\obj\Debug\net9.0\abstrac.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\abstrac\obj\Debug\net9.0\refint\abstrac.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\abstrac\obj\Debug\net9.0\abstrac.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\abstrac\obj\Debug\net9.0\abstrac.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\abstrac\obj\Debug\net9.0\ref\abstrac.dll
