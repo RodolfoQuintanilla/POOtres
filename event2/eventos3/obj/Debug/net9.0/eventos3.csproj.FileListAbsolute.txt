@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\event2\eventos3\bin\Debug\net9.0\eventos3.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\event2\eventos3\bin\Debug\net9.0\eventos3.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\event2\eventos3\bin\Debug\net9.0\eventos3.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\event2\eventos3\bin\Debug\net9.0\eventos3.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\event2\eventos3\bin\Debug\net9.0\eventos3.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\event2\eventos3\obj\Debug\net9.0\eventos3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\event2\eventos3\obj\Debug\net9.0\eventos3.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\event2\eventos3\obj\Debug\net9.0\eventos3.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\event2\eventos3\obj\Debug\net9.0\eventos3.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\event2\eventos3\obj\Debug\net9.0\eventos3.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\event2\eventos3\obj\Debug\net9.0\eventos3.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\event2\eventos3\obj\Debug\net9.0\refint\eventos3.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\event2\eventos3\obj\Debug\net9.0\eventos3.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\event2\eventos3\obj\Debug\net9.0\eventos3.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\event2\eventos3\obj\Debug\net9.0\ref\eventos3.dll
