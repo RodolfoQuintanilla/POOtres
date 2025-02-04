@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Generico3\bin\Debug\net9.0\Generico3.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Generico3\bin\Debug\net9.0\Generico3.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Generico3\bin\Debug\net9.0\Generico3.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Generico3\bin\Debug\net9.0\Generico3.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Generico3\bin\Debug\net9.0\Generico3.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Generico3\obj\Debug\net9.0\Generico3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Generico3\obj\Debug\net9.0\Generico3.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Generico3\obj\Debug\net9.0\Generico3.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Generico3\obj\Debug\net9.0\Generico3.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Generico3\obj\Debug\net9.0\Generico3.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Generico3\obj\Debug\net9.0\Generico3.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Generico3\obj\Debug\net9.0\refint\Generico3.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Generico3\obj\Debug\net9.0\Generico3.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Generico3\obj\Debug\net9.0\Generico3.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Generico3\obj\Debug\net9.0\ref\Generico3.dll
