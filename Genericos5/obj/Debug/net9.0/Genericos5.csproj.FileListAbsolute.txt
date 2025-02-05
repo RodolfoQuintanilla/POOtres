@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Genericos5\bin\Debug\net9.0\Genericos5.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Genericos5\bin\Debug\net9.0\Genericos5.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Genericos5\bin\Debug\net9.0\Genericos5.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Genericos5\bin\Debug\net9.0\Genericos5.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Genericos5\bin\Debug\net9.0\Genericos5.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Genericos5\obj\Debug\net9.0\Genericos5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Genericos5\obj\Debug\net9.0\Genericos5.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Genericos5\obj\Debug\net9.0\Genericos5.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Genericos5\obj\Debug\net9.0\Genericos5.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Genericos5\obj\Debug\net9.0\Genericos5.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Genericos5\obj\Debug\net9.0\Genericos5.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Genericos5\obj\Debug\net9.0\refint\Genericos5.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Genericos5\obj\Debug\net9.0\Genericos5.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Genericos5\obj\Debug\net9.0\Genericos5.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Genericos5\obj\Debug\net9.0\ref\Genericos5.dll
