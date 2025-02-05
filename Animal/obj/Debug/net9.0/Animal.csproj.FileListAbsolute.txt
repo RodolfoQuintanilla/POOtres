@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Animal\bin\Debug\net9.0\Animal.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Animal\bin\Debug\net9.0\Animal.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Animal\bin\Debug\net9.0\Animal.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Animal\bin\Debug\net9.0\Animal.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Animal\bin\Debug\net9.0\Animal.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Animal\obj\Debug\net9.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Animal\obj\Debug\net9.0\Animal.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Animal\obj\Debug\net9.0\Animal.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Animal\obj\Debug\net9.0\Animal.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Animal\obj\Debug\net9.0\Animal.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Animal\obj\Debug\net9.0\Animal.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Animal\obj\Debug\net9.0\refint\Animal.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Animal\obj\Debug\net9.0\Animal.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Animal\obj\Debug\net9.0\Animal.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Animal\obj\Debug\net9.0\ref\Animal.dll
