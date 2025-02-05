@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Abstraccion\bin\Debug\net9.0\Abstraccion.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Abstraccion\bin\Debug\net9.0\Abstraccion.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Abstraccion\bin\Debug\net9.0\Abstraccion.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Abstraccion\bin\Debug\net9.0\Abstraccion.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Abstraccion\bin\Debug\net9.0\Abstraccion.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Abstraccion\obj\Debug\net9.0\Abstraccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Abstraccion\obj\Debug\net9.0\Abstraccion.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Abstraccion\obj\Debug\net9.0\Abstraccion.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Abstraccion\obj\Debug\net9.0\Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Abstraccion\obj\Debug\net9.0\Abstraccion.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Abstraccion\obj\Debug\net9.0\Abstraccion.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Abstraccion\obj\Debug\net9.0\refint\Abstraccion.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Abstraccion\obj\Debug\net9.0\Abstraccion.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Abstraccion\obj\Debug\net9.0\Abstraccion.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\Abstraccion\obj\Debug\net9.0\ref\Abstraccion.dll
