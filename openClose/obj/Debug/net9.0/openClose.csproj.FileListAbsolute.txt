@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\openClose\bin\Debug\net9.0\openClose.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\openClose\bin\Debug\net9.0\openClose.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\openClose\bin\Debug\net9.0\openClose.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\openClose\bin\Debug\net9.0\openClose.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\openClose\bin\Debug\net9.0\openClose.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\openClose\obj\Debug\net9.0\openClose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\openClose\obj\Debug\net9.0\openClose.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\openClose\obj\Debug\net9.0\openClose.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\openClose\obj\Debug\net9.0\openClose.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\openClose\obj\Debug\net9.0\openClose.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\openClose\obj\Debug\net9.0\openClose.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\openClose\obj\Debug\net9.0\refint\openClose.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\openClose\obj\Debug\net9.0\openClose.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\openClose\obj\Debug\net9.0\openClose.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\openClose\obj\Debug\net9.0\ref\openClose.dll
