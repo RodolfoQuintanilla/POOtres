@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\solid2\bin\Debug\net9.0\solid2.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\solid2\bin\Debug\net9.0\solid2.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\solid2\bin\Debug\net9.0\solid2.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\solid2\bin\Debug\net9.0\solid2.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\solid2\bin\Debug\net9.0\solid2.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\solid2\obj\Debug\net9.0\solid2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\solid2\obj\Debug\net9.0\solid2.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\solid2\obj\Debug\net9.0\solid2.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\solid2\obj\Debug\net9.0\solid2.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\solid2\obj\Debug\net9.0\solid2.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\solid2\obj\Debug\net9.0\solid2.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\solid2\obj\Debug\net9.0\refint\solid2.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\solid2\obj\Debug\net9.0\solid2.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\solid2\obj\Debug\net9.0\solid2.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\solid2\obj\Debug\net9.0\ref\solid2.dll
