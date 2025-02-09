@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\delegado\bin\Debug\net9.0\delegado.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\delegado\bin\Debug\net9.0\delegado.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\delegado\bin\Debug\net9.0\delegado.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\delegado\bin\Debug\net9.0\delegado.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\delegado\bin\Debug\net9.0\delegado.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\delegado\obj\Debug\net9.0\delegado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\delegado\obj\Debug\net9.0\delegado.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\delegado\obj\Debug\net9.0\delegado.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\delegado\obj\Debug\net9.0\delegado.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\delegado\obj\Debug\net9.0\delegado.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\delegado\obj\Debug\net9.0\delegado.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\delegado\obj\Debug\net9.0\refint\delegado.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\delegado\obj\Debug\net9.0\delegado.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\delegado\obj\Debug\net9.0\delegado.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\POOtres\delegado\obj\Debug\net9.0\ref\delegado.dll
